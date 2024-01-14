@@ -1,0 +1,66 @@
+[
+    {
+      "image": "https://i.ibb.co/HYhTBkM/Rectangle-2.png",
+      "course_name": "Introduction to Programming",
+      "credit": 3,
+      "price": 49.99,
+      "course_details": "This course covers the fundamentals of programming, including basic syntax, algorithms, and problem-solving."
+    },
+    {
+      "image": "https://i.ibb.co/8XYj33s/Rectangle-2-1.png",
+      "course_name": "Web Development Basics",
+      "credit": 4,
+      "price": 79.99,
+      "course_details": "Learn the essentials of web development, HTML, CSS, and introductory JavaScript for building ."
+    },
+    {
+      "image": "https://i.ibb.co/qMDZpgR/Rectangle-2-2.png",
+      "course_name": "Data Science Fundamentals",
+      "credit": 5,
+      "price": 99.99,
+      "course_details": "Explore the basics of data science, including data analysis, visualization, and introductory machine learning concepts."
+    },
+    {
+      "image": "https://i.ibb.co/zJbSWHy/Rectangle-2-3.png",
+      "course_name": "Mobile App Development",
+      "credit": 4,
+      "price": 69.99,
+      "course_details": "Build mobile applications for iOS and Android platforms using popular frameworks like React Native and Flutter."
+    },
+    {
+      "image": "https://i.ibb.co/xXkVhth/Rectangle-2-4.png",
+      "course_name": "Cybersecurity Essentials",
+      "credit": 4,
+      "price": 89.99,
+      "course_details": "Learn the fundamental principles of cybersecurity, including encryption, network security, and ethical ."
+    },
+    {
+      "image": "https://i.ibb.co/Zg9hGMj/Rectangle-2-5.png",
+      "course_name": "Graphic Design Fundamentals",
+      "credit": 3,
+      "price": 59.99,
+      "course_details": "Explore the basics of graphic design, including principles of design, color theory, and popular design tools."
+    },
+    {
+      "image": "https://i.ibb.co/Rbb6xxC/Rectangle-2-6.png",
+      "course_name": "Business Analytics",
+      "credit": 5,
+      "price": 109.99,
+      "course_details": "Gain insights into business analytics, data-driven decision-making, and analytics tools like Tableau and Power BI."
+    },
+    {
+      "image": "https://i.ibb.co/JHx2hqx/Rectangle-3.png",
+      "course_name": "Digital Marketing Strategies",
+      "credit": 3,
+      "price": 79.99,
+      "course_details": "Learn effective digital marketing strategies, including social media marketing, SEO, and online advertising."
+    },
+    {
+      "image": "https://i.ibb.co/zXWZb0D/Rectangle-3-1.png",
+      "course_name": "Artificial Intelligence Basics",
+      "credit": 5,
+      "price": 119.99,
+      "course_details": "Introduction to artificial intelligence, machine learning, and applications in various fields."
+    }
+  ]
+  
